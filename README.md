@@ -2,6 +2,7 @@
 This is a project focusing on dealing with problems on both frontend and backend.
 
 There are 3 major part of this project:
+
 First, implement responsive webpages using HTML, CSS and JavaScript (To-Do List and Color Game)
 
 Second, design a blog website following the rules of RESTful route.
